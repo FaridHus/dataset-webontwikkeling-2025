@@ -1,0 +1,66 @@
+[
+  {
+    "id": "SET-001",
+    "name": "Batcave Break-In",
+    "theme": "Super Heroes",
+    "setImageUrl": "Batcave Break-In.jpg",
+    "releaseYear": 2017,
+    "pieces": 1047
+  },
+  {
+    "id": "SET-002",
+    "name": "The Joker’s Notorious Lowrider",
+    "theme": "Super Heroes",
+    "setImageUrl": "The Joker’s Notorious Lowrider.jpg",
+    "releaseYear": 2016,
+    "pieces": 433
+  },
+  {
+    "id": "SET-003",
+    "name": "Harley Quinn Cannonball Attack",
+    "theme": "Super Heroes",
+    "setImageUrl": "Harley Quinn Cannonball Attack.jpg",
+    "releaseYear": 2018,
+    "pieces": 425
+  },
+  {
+    "id": "SET-004",
+    "name": "Catwoman Cycle Chase",
+    "theme": "Super Heroes",
+    "setImageUrl": "Catwoman Cycle Chase.jpg",
+    "releaseYear": 2017,
+    "pieces": 139
+  },
+  {
+    "id": "SET-005",
+    "name": "Bane Toxic Truck Attack",
+    "theme": "Super Heroes",
+    "setImageUrl": "Bane Toxic Truck Attack.jpg",
+    "releaseYear": 2017,
+    "pieces": 366
+  },
+  {
+    "id": "SET-006",
+    "name": "Poison Ivy’s Lab",
+    "theme": "Super Heroes",
+    "setImageUrl": "Poison Ivy’s Lab.jpg",
+    "releaseYear": 2018,
+    "pieces": 308
+  },
+  {
+    "id": "SET-007",
+    "name": "Penguin Arctic Roller",
+    "theme": "Super Heroes",
+    "setImageUrl": "Penguin Arctic Roller.jpg",
+    "releaseYear": 2017,
+    "pieces": 305
+  },
+  {
+    "id": "SET-008",
+    "name": "Batgirl Secret Mission",
+    "theme": "Super Heroes",
+    "setImageUrl": "Batgirl Secret Mission.jpg",
+    "releaseYear": 2019,
+    "pieces": 275
+  }
+]
