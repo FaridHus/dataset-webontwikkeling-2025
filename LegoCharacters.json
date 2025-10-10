@@ -9,7 +9,7 @@
     "imageUrl": "https://raw.githubusercontent.com/FaridHus/dataset-webontwikkeling-2025/refs/heads/main/Images/Batman.jpg",
     "rarity": "Legendary",
     "abilities": ["Detective Skills", "Martial Arts", "Gadgets"],
-    "typeid": "SET-001",
+    "typeid": "SET-001"
       
   },
   {
@@ -22,7 +22,7 @@
     "imageUrl": "https://raw.githubusercontent.com/FaridHus/dataset-webontwikkeling-2025/refs/heads/main/Images/Robin.jpg",
     "rarity": "Epic",
     "abilities": ["Agility", "Acrobatics", "Team Spirit"],
-    "typeid": "SET-002",
+    "typeid": "SET-002"
     
   },
   {
@@ -35,7 +35,7 @@
     "imageUrl": "https://raw.githubusercontent.com/FaridHus/dataset-webontwikkeling-2025/refs/heads/main/Images/Joker.jpg",
     "rarity": "Legendary",
     "abilities": ["Chaos Creation", "Trick Weapons", "Psychological Manipulation"],
-    "typeid": "SET-002",
+    "typeid": "SET-002"
     
   },
   {
@@ -48,7 +48,7 @@
     "imageUrl": "https://raw.githubusercontent.com/FaridHus/dataset-webontwikkeling-2025/refs/heads/main/Images/Harley Quinn.jpg",
     "rarity": "Epic",
     "abilities": ["Gymnastics", "Explosives", "Hammer Combat"],
-    "typeid": "SET-003",
+    "typeid": "SET-003"
       },
   {
     "id": "CHAR-005",
@@ -60,7 +60,7 @@
     "imageUrl": "https://raw.githubusercontent.com/FaridHus/dataset-webontwikkeling-2025/refs/heads/main/Images/Catwoman.jpg",
     "rarity": "Rare",
     "abilities": ["Stealth", "Whip Mastery", "Parkour"],
-    "typeid": "SET-004",
+    "typeid": "SET-004"
       },
   {
     "id": "CHAR-006",
@@ -72,7 +72,7 @@
     "imageUrl": "https://raw.githubusercontent.com/FaridHus/dataset-webontwikkeling-2025/refs/heads/main/Images/Alfred Pennyworth.jpg",
     "rarity": "Standard",
     "abilities": ["Wisdom", "Support", "Tea Serving"],
-    "typeid": "SET-001",
+    "typeid": "SET-001"
       },
   {
     "id": "CHAR-007",
@@ -84,7 +84,7 @@
     "imageUrl": "https://raw.githubusercontent.com/FaridHus/dataset-webontwikkeling-2025/refs/heads/main/Images/Bane.jpg",
     "rarity": "Epic",
     "abilities": ["Super Strength", "Intimidation", "Combat"],
-    "typeid": "SET-005",
+    "typeid": "SET-005"
       },
   {
     "id": "CHAR-008",
@@ -96,7 +96,7 @@
     "imageUrl": "https://raw.githubusercontent.com/FaridHus/dataset-webontwikkeling-2025/refs/heads/main/Images/Poison Ivy.jpg",
     "rarity": "Rare",
     "abilities": ["Plant Control", "Toxins", "Charm"],
-    "typeid": "SET-006",
+    "typeid": "SET-006"
       },
   {
     "id": "CHAR-009",
@@ -108,7 +108,7 @@
     "imageUrl": "https://raw.githubusercontent.com/FaridHus/dataset-webontwikkeling-2025/refs/heads/main/Images/Penguin.jpg",
     "rarity": "Rare",
     "abilities": ["Umbrella Weapons", "Scheming", "Leadership"],
-    "typeid": "SET-007",
+    "typeid": "SET-007"
       },
   {
     "id": "CHAR-010",
@@ -120,8 +120,9 @@
     "imageUrl": "https://raw.githubusercontent.com/FaridHus/dataset-webontwikkeling-2025/refs/heads/main/Images/Batgirl.jpg",
     "rarity": "Epic",
     "abilities": ["Tech Knowledge", "Martial Arts", "Detective Skills"],
-    "typeid": "SET-008",
+    "typeid": "SET-008"
       }
 ]
+
 
 
